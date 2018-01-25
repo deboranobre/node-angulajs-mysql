@@ -22,8 +22,10 @@ log4js: ^0.6.36
 
 2.  Run scripts.sql in **schema** folder, preferably in PHPMyAdmin or command line.  This will create database and table.
 
-3.  Edit **server.js** lines **21 & 22** with the username and password of the MySQL database.
+3.  Edit **server/pool.js** lines **21 & 22** with the username and password of the MySQL database.
 
 3.  Via command line, change directory to project root and run **npm install**, this will install dependencies. 
 
 4.  **npm start** to run application.
+
+5. Access http://localhost:8081
