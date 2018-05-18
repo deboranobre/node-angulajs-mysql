@@ -1,7 +1,5 @@
-Desafio passei Direto
+Web app using Node.js, Express, MySQL and Angular 
 ===============
-
-Web app using Node.js, Express, MySQL and Angular.  
 
 Node.js is used for API, Express as web server, MySQL as data store, and Angular for presentation.
 
